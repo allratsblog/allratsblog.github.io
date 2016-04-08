@@ -1,0 +1,53 @@
+body{
+	background-color:#B8860B;
+}
+#menu{
+	position:fixed;
+	left:1%;
+	top:1%;
+	border:1px solid black;
+	width:15%;
+	height: 98%;
+	background-color: #00FF00;
+	text-align:center;
+}
+#main{
+	position:fixed;
+	top:1%;
+	left:17%;
+	width:66%;
+	bottom:1%;
+	background-color:#DEB887;
+	text-align:center;
+	text-color:#006400;
+}
+#reclam{
+	position:fixed;
+	right:1%;
+	top:1%;
+	border:1px solid black;
+	width:15%;
+}
+#reclam1{
+	background-color:#FFD700;
+}
+#reclam2{
+	background-color:#DDA0DD;
+}
+#reclam3{
+	background-color:#DEB887;
+}
+#img{
+	position:fixed;
+	left:12.5%;
+	top:1%;
+	height:90%;
+	width:75%;
+}
+#href{
+	left:1%;
+	bottom:1%;
+	height:2%;
+	width:95%;
+	text-align:center;
+}
